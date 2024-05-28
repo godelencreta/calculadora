@@ -19,3 +19,6 @@ elif operacion == 4:
     print(f"El cociente de la división es {valor_1//valor_2} y el resto es {valor_1%valor_2}.")
 else:
     print("Introduzca un valor válido.")
+    
+# Probar con funciones, y llamada con argumentos a la función.
+
